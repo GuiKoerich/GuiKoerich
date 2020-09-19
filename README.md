@@ -9,7 +9,7 @@
           self.studying = 'Science Computer'
           self.period = 7
           self.work = 'PWX Tecnologia da Informação'
-          self.job = 'Software Develop'
+          self.job = 'Software Developer'
       
       def technologies(self):
           return {
@@ -21,5 +21,3 @@
           return ['microservices', 'event-driven']
       
 ```
-
-![GitHub followers](https://img.shields.io/github/followers/guikoerich?style=social)
