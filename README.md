@@ -10,7 +10,7 @@
           self.age = 31
           self.college = 'Instituto de Ensino Superior da Grande Florianópolis'
           self.studying = 'Science Computer'
-          self.period = 7
+          self.period = 8
           self.work = 'PWX Tecnologia da Informação'
           self.job = 'Software Developer'
       
